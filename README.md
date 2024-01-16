@@ -4,6 +4,6 @@ A simple yet powerful drowsiness detection model with an accuracy of 97% develop
 
 To use our drowsiness detection model:
 1. Simply clone or download and unzip the repository.
-2. Install tensorflow, cv2, and other modules as required in your system using pip. (You can cross-check the modules used in the respective .ipynb files and install required ones)
+2. Install tensorflow, cv2, and other modules as required in your system using pip (You can cross-check the modules used in the respective .ipynb files and install required ones).
 3. Run the gui.py file.
 4. The OpenCV window will open and automatically detect eye state (Ensure proper lighting before detection).
