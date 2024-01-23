@@ -1,8 +1,8 @@
 # Drowsiness_Detection
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Shuaib21803/Drowsiness-Detection)
-![GitHub contributors](https://img.shields.io/github/contributors/Shuaib21803/Drowsiness-Detection)
-![GitHub forks](https://img.shields.io/github/forks/Shuaib21803/Drowsiness-Detection)
+![GitHub repo size](https://img.shields.io/github/repo-size/Shuaib21803/Realtime-Drowsiness-Detection)
+![GitHub contributors](https://img.shields.io/github/contributors/Shuaib21803/Realtime-Drowsiness-Detection)
+![GitHub forks](https://img.shields.io/github/forks/Shuaib21803/Realtime-Drowsiness-Detection)
 
 ## Table of Contents
 - [Introduction](#introduction)
